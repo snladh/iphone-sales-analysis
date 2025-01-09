@@ -1,1 +1,1 @@
-This is s project given in bootcamp at TAKEO for data engineering class.
+This is a project given in bootcamp at TAKEO for data engineering class.
